@@ -5,7 +5,7 @@
  
 int _tmain(int argc, _TCHAR* argv[])
 {
-	cout << "df";
+	cout << "sdf";
 	getchar();
 	return 0;
 	
